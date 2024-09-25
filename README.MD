@@ -31,21 +31,19 @@ This is a fully functional eCommerce website with a beautiful user interface and
   <img width="780" src="preview/check-out.png">
 </p>
 
-## To Run This Project
-1. clone this project on your local machine,
-```
+
 ## To Run This Project
 1. clone this project on your local machine,
 ```
 git clone https://github.com/vikky1701/Ecom.git
 ```
-2. create a virtual environment inside eCommerce folder,
+2. create a virtual environment inside Ecommerce folder,
 ```
 python3 -m venv venv
 ```
-3. activate virtual environment,(for windows)
+3. activate virtual environment
 ```
-.source /venv/bin/activate
+source /venv/bin/activate
 ```
 4. install project dependencies from requirements.txt,
 ```
